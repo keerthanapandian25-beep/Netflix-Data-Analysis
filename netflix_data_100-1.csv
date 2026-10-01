@@ -1,0 +1,101 @@
+show_id,title,type,release_year,rating,duration,country,date_added
+s001,Stranger Things,TV Show,2019,TV-MA,2 Seasons,India,2020-02-02
+s002,The Crown,Movie,2026,PG-13,94 min,United Kingdom,2021-03-03
+s003,Wednesday,TV Show,2018,R,4 Seasons,South Korea,2022-04-04
+s004,Money Heist,Movie,2025,TV-PG,108 min,Spain,2023-05-05
+s005,Dark,TV Show,2017,PG,1 Seasons,Germany,2024-06-06
+s006,Bridgerton,Movie,2024,TV-14,122 min,France,2019-07-07
+s007,Lupin,TV Show,2016,TV-MA,3 Seasons,Canada,2020-08-08
+s008,The Witcher,Movie,2023,PG-13,136 min,Japan,2021-09-09
+s009,Black Mirror,TV Show,2015,R,5 Seasons,Australia,2022-10-10
+s010,Narcos,Movie,2022,TV-PG,150 min,United States,2023-11-11
+s011,Squid Game,TV Show,2014,PG,2 Seasons,India,2024-12-12
+s012,Ozark,Movie,2021,TV-14,164 min,United Kingdom,2019-01-13
+s013,You,TV Show,2013,TV-MA,4 Seasons,South Korea,2020-02-14
+s014,The Umbrella Academy,Movie,2020,PG-13,178 min,Spain,2021-03-15
+s015,Lucifer,TV Show,2012,R,1 Seasons,Germany,2022-04-16
+s016,Cobra Kai,Movie,2019,TV-PG,92 min,France,2023-05-17
+s017,Manifest,TV Show,2026,PG,3 Seasons,Canada,2024-06-18
+s018,The Queen's Gambit,Movie,2018,TV-14,106 min,Japan,2019-07-19
+s019,Sex Education,TV Show,2025,TV-MA,5 Seasons,Australia,2020-08-20
+s020,Elite,Movie,2017,PG-13,120 min,United States,2021-09-21
+s021,Breaking Bad,TV Show,2024,R,2 Seasons,India,2022-10-22
+s022,Better Call Saul,Movie,2016,TV-PG,134 min,United Kingdom,2023-11-23
+s023,The Good Place,TV Show,2023,PG,4 Seasons,South Korea,2024-12-24
+s024,Brooklyn Nine-Nine,Movie,2015,TV-14,148 min,Spain,2019-01-25
+s025,The Office,TV Show,2022,TV-MA,1 Seasons,Germany,2020-02-26
+s026,Friends,Movie,2014,PG-13,162 min,France,2021-03-27
+s027,Peaky Blinders,TV Show,2021,R,3 Seasons,Canada,2022-04-01
+s028,Vikings,Movie,2013,TV-PG,176 min,Japan,2023-05-02
+s029,Arcane,TV Show,2020,PG,5 Seasons,Australia,2024-06-03
+s030,The Sandman,Movie,2012,TV-14,90 min,United States,2019-07-04
+s031,Enola Holmes,TV Show,2019,TV-MA,2 Seasons,India,2020-08-05
+s032,Extraction,Movie,2026,PG-13,104 min,United Kingdom,2021-09-06
+s033,Bird Box,TV Show,2018,R,4 Seasons,South Korea,2022-10-07
+s034,The Adam Project,Movie,2025,TV-PG,118 min,Spain,2023-11-08
+s035,Red Notice,TV Show,2017,PG,1 Seasons,Germany,2024-12-09
+s036,The Gray Man,Movie,2024,TV-14,132 min,France,2019-01-10
+s037,Glass Onion,TV Show,2016,TV-MA,3 Seasons,Canada,2020-02-11
+s038,Don't Look Up,Movie,2023,PG-13,146 min,Japan,2021-03-12
+s039,The Irishman,TV Show,2015,R,5 Seasons,Australia,2022-04-13
+s040,Army of the Dead,Movie,2022,TV-PG,160 min,United States,2023-05-14
+s041,To All the Boys I've Loved Before,TV Show,2014,PG,2 Seasons,India,2024-06-15
+s042,The Kissing Booth,Movie,2021,TV-14,174 min,United Kingdom,2019-07-16
+s043,The Half of It,TV Show,2013,TV-MA,4 Seasons,South Korea,2020-08-17
+s044,Set It Up,Movie,2020,PG-13,88 min,Spain,2021-09-18
+s045,Always Be My Maybe,TV Show,2012,R,1 Seasons,Germany,2022-10-19
+s046,The Perfect Date,Movie,2019,TV-PG,102 min,France,2023-11-20
+s047,Tall Girl,TV Show,2026,PG,3 Seasons,Canada,2024-12-21
+s048,Along for the Ride,Movie,2018,TV-14,116 min,Japan,2019-01-22
+s049,Purple Hearts,TV Show,2025,TV-MA,5 Seasons,Australia,2020-02-23
+s050,The Last Letter from Your Lover,Movie,2017,PG-13,130 min,United States,2021-03-24
+s051,RRR,TV Show,2024,R,2 Seasons,India,2022-04-25
+s052,Dangal,Movie,2016,TV-PG,144 min,United Kingdom,2023-05-26
+s053,3 Idiots,TV Show,2023,PG,4 Seasons,South Korea,2024-06-27
+s054,Jawan,Movie,2015,TV-14,158 min,Spain,2019-07-01
+s055,Pathaan,TV Show,2022,TV-MA,1 Seasons,Germany,2020-08-02
+s056,Kantara,Movie,2014,PG-13,172 min,France,2021-09-03
+s057,Andhadhun,TV Show,2021,R,3 Seasons,Canada,2022-10-04
+s058,Drishyam,Movie,2013,TV-PG,86 min,Japan,2023-11-05
+s059,Article 15,TV Show,2020,PG,5 Seasons,Australia,2024-12-06
+s060,Raazi,Movie,2012,TV-14,100 min,United States,2019-01-07
+s061,Zindagi Na Milegi Dobara,TV Show,2019,TV-MA,2 Seasons,India,2020-02-08
+s062,Yeh Jawaani Hai Deewani,Movie,2026,PG-13,114 min,United Kingdom,2021-03-09
+s063,Queen,TV Show,2018,R,4 Seasons,South Korea,2022-04-10
+s064,Barfi!,Movie,2025,TV-PG,128 min,Spain,2023-05-11
+s065,Gully Boy,TV Show,2017,PG,1 Seasons,Germany,2024-06-12
+s066,Pink,Movie,2024,TV-14,142 min,France,2019-07-13
+s067,Piku,TV Show,2016,TV-MA,3 Seasons,Canada,2020-08-14
+s068,English Vinglish,Movie,2023,PG-13,156 min,Japan,2021-09-15
+s069,Badhaai Ho,TV Show,2015,R,5 Seasons,Australia,2022-10-16
+s070,Stree,Movie,2022,TV-PG,170 min,United States,2023-11-17
+s071,Stranger Things 2,TV Show,2014,PG,2 Seasons,India,2024-12-18
+s072,Stranger Things 3,Movie,2021,TV-14,84 min,United Kingdom,2019-01-19
+s073,Stranger Things 4,TV Show,2013,TV-MA,4 Seasons,South Korea,2020-02-20
+s074,The Crown 2,Movie,2020,PG-13,98 min,Spain,2021-03-21
+s075,The Crown 3,TV Show,2012,R,1 Seasons,Germany,2022-04-22
+s076,Dark 2,Movie,2019,TV-PG,112 min,France,2023-05-23
+s077,Dark 3,TV Show,2026,PG,3 Seasons,Canada,2024-06-24
+s078,Lupin 2,Movie,2018,TV-14,126 min,Japan,2019-07-25
+s079,You 2,TV Show,2025,TV-MA,5 Seasons,Australia,2020-08-26
+s080,You 3,Movie,2017,PG-13,140 min,United States,2021-09-27
+s081,Bridgerton 2,TV Show,2024,R,2 Seasons,India,2022-10-01
+s082,Bridgerton 3,Movie,2016,TV-PG,154 min,United Kingdom,2023-11-02
+s083,Money Heist 2,TV Show,2023,PG,4 Seasons,South Korea,2024-12-03
+s084,Money Heist 3,Movie,2015,TV-14,168 min,Spain,2019-01-04
+s085,The Witcher 2,TV Show,2022,TV-MA,1 Seasons,Germany,2020-02-05
+s086,The Witcher 3,Movie,2014,PG-13,82 min,France,2021-03-06
+s087,Ozark 2,TV Show,2021,R,3 Seasons,Canada,2022-04-07
+s088,Ozark 3,Movie,2013,TV-PG,96 min,Japan,2023-05-08
+s089,Manifest 2,TV Show,2020,PG,5 Seasons,Australia,2024-06-09
+s090,Manifest 3,Movie,2012,TV-14,110 min,United States,2019-07-10
+s091,Wednesday Special,TV Show,2019,TV-MA,2 Seasons,India,2020-08-11
+s092,Lucifer 2,Movie,2026,PG-13,124 min,United Kingdom,2021-09-12
+s093,Lucifer 3,TV Show,2018,R,4 Seasons,South Korea,2022-10-13
+s094,Cobra Kai 2,Movie,2025,TV-PG,138 min,Spain,2023-11-14
+s095,Cobra Kai 3,TV Show,2017,PG,1 Seasons,Germany,2024-12-15
+s096,Elite 2,Movie,2024,TV-14,152 min,France,2019-01-16
+s097,Elite 3,TV Show,2016,TV-MA,3 Seasons,Canada,2020-02-17
+s098,Narcos 2,Movie,2023,PG-13,166 min,Japan,2021-03-18
+s099,Narcos 3,TV Show,2015,R,5 Seasons,Australia,2022-04-19
+s100,Black Mirror 2,Movie,2022,TV-PG,80 min,United States,2023-05-20

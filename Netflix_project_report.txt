@@ -1,0 +1,72 @@
+NETFLIX DATA ANALYSIS USING PYTHON
+
+1. PROJECT TITLE
+
+Netflix Data Analysis Using Python
+
+
+2. OBJECTIVE
+
+The objective of this project is to analyze Netflix data using Python and identify useful insights about movies, TV shows, countries, ratings, release years, durations, and seasons.
+
+
+3. TOOLS USED
+
+Python
+Pandas
+NumPy
+PyCharm
+CSV Dataset
+
+
+4. DATASET DESCRIPTION
+
+The dataset contains 100 Netflix titles, including 50 Movies and 50 TV Shows.
+
+The dataset contains information such as:
+- Title
+- Type
+- Release Year
+- Rating
+- Duration
+- Country
+- Date Added
+
+
+5. DATA ANALYSIS PERFORMED
+
+The following analyses were performed:
+
+- Dataset structure analysis
+- Number of rows and columns
+- Missing value checking
+- Movie and TV Show count
+- Movie and TV Show percentage
+- Country-wise analysis
+- Country and Type analysis
+- Release Year and Type analysis
+- Movie duration analysis
+- TV Show season analysis
+- Rating analysis
+- Country and Rating analysis
+- Country and Release Year analysis
+- Release Year analysis
+
+
+6. KEY FINDINGS
+
+- The dataset contains 100 titles.
+- There are 50 Movies and 50 TV Shows.
+- Each country contains 10 titles.
+- Movie duration ranges from 80 to 178 minutes.
+- Average movie duration is 129 minutes.
+- TV Shows have 1 to 5 seasons.
+- Average number of TV Show seasons is 3.
+- 9 TV Shows have the maximum of 5 seasons.
+- The dataset contains 6 different ratings.
+- The highest number of titles in a single release year is 7.
+
+
+7. CONCLUSION
+
+This project helped analyze Netflix content using Python, Pandas, and NumPy. The analysis provided useful insights into content types, movie duration, TV show seasons, ratings, countries, and release years.
